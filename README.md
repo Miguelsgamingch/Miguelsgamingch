@@ -1,4 +1,7 @@
 ### Hello There!
-🧍 My Name Is Miguelsgamingch, I Play allot of CSGO And i own a game development stupid called RGB Software.
-🇵🇭 Im From The Philippines 🇵🇭 
-# README.md is currently under construction, please come again later
+If you you'd like to know more about me, please click any of those social links below whether it is my
+- Website
+- X/Twitter
+- Channel
+- RGB Software Itch.io Page
+## Please note i am not that active in github!
